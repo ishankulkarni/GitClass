@@ -13,3 +13,5 @@ class Client {
 		return "Hello World";
 	}
 }
+
+Hello World
