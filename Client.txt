@@ -1,5 +1,15 @@
-F**K Yourself
+//F**K Yourself
 
-Ok
+//Ok
  
-Dont!
+//Dont!
+
+class Client { 
+	public static void main(String...args) {
+		System.out.println(fun());
+	}
+
+	public static String foo() {
+		return "Hello World";
+	}
+}
