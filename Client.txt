@@ -1,0 +1,4 @@
+class My {
+
+	syso("Created a cllass")';
+}
