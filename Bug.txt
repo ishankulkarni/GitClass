@@ -1,1 +1,4 @@
-Bug fixing
+Bug fixing, and updated
+
+
+Bug 2 fixed, additional changes
