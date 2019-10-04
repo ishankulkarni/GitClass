@@ -2,3 +2,9 @@ class My {
 
 	syso("Created a cllass")';
 }
+
+class second {
+	if(x){
+		ysyo
+	}
+}
